@@ -1,0 +1,10 @@
+- **Pandas** (`import pandas as pd`)
+- **NumPy** (`import numpy as np`)
+- **Matplotlib** (`import matplotlib.pyplot as plt`)
+- **Seaborn** (`import seaborn as sns`)
+- **Scikit-learn (sklearn)**
+  - Data splitting: `train_test_split` (`from sklearn.model_selection import train_test_split`)
+  - Model evaluation:
+    - `mean_absolute_error`, `mean_squared_error` (`from sklearn.metrics import ...`)
+- **Statsmodels** (`import statsmodels.api as sm`)
+  - For building linear regression models
